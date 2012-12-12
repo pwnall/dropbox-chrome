@@ -7,3 +7,9 @@
 # Npm modules.
 node_modules
 
+# Vendored libraries.
+vendor
+
+# Build output.
+build
+release
